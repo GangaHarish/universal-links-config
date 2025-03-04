@@ -1,0 +1,23 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9434T587C9.com.test.adminApp",
+        "paths": [
+          "/account/*",
+          "/admin/*",
+          "/play/*"
+        ]
+      },
+      {
+        "appID": "9434T587C9.com.test.multipleApps",
+        "paths": [
+          "/checkout/*",
+          "/product/*",
+          "/bag/*"
+        ]
+      }
+    ]
+  }
+}
